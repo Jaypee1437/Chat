@@ -12,7 +12,8 @@ const responses = {
     'gawa': 'busy ako',
     'miss': 'imissyou',
     'ano': 'ano sa tingin mo',
-    'bakit': 'ewan'
+    'bakit': 'ewan',
+    'bahala': 'okey'
 };
 
 const chatBox = document.getElementById('chat-box');
