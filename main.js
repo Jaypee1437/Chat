@@ -13,7 +13,7 @@ const responses = {
     'miss': 'imissyou',
     'ano': 'ano sa tingin mo',
     'bakit': 'ewan',
-    'bahala': 'okey'.
+    'bahala': 'okey'
 };
 
 const chatBox = document.getElementById('chat-box');
